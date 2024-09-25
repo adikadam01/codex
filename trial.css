@@ -135,10 +135,19 @@
         margin: 30px;
     }
 
+    #events .col p{
+        align-items: center;
+        font-size: 52px;
+        color: #52038f;
+        display: flex;
+        justify-content: center;
+    }
+
     p {
         font-weight: 700;
         text-align: left;
         font-size: 25px;
+        
     }
 
     section {
